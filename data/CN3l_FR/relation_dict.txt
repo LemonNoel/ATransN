@@ -1,0 +1,8 @@
+/r/Antonym	0
+/r/DerivedFrom	1
+/r/EtymologicallyDerivedFrom	2
+/r/IsA	3
+/r/PartOf	4
+/r/RelatedTo	5
+/r/Synonym	6
+/r/TranslationOf	7

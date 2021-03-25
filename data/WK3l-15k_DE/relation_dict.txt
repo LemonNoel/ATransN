@@ -1,0 +1,596 @@
+abfluss-lom	0
+absteiger	1
+abteilungen	2
+aeropuerto	3
+aktuelledoppelplatzierung	4
+aktuelleeinzelplatzierung	5
+aktuellesteam	6
+align	7
+alt moy	8
+alternativanzeige-gemeindename	9
+alternativnamen	10
+altitud	11
+altitudine	12
+amateurjahre	13
+amt-name	14
+amtssprache	15
+anmerkungen	16
+anschrift	17
+anschriftort	18
+anzahl	19
+anzahl teilnehmer	20
+anzahldoppeltitel	21
+anzahleinzeltitel	22
+anzahlgrandslamtiteldoppel	23
+anzahlgrandslamtiteleinzel	24
+anzahltitel	25
+arrondissement	26
+artikel	27
+aufgelöst	28
+auflage	29
+auflösung	30
+auslosung	31
+ausrichtung	32
+australianopenergebnisdoppel	33
+australianopenergebniseinzel	34
+autobahn	35
+autor	36
+bahn	37
+bahnbreite in meter	38
+band	39
+baranggays	40
+bats	41
+bauzeit	42
+beginn	43
+beschreibung	44
+beschriftung	45
+beschriftung karte	46
+beschriftung positionskarte	47
+bester gd	48
+bev-dichte	49
+bevölkerungsdichte	50
+bezeichnung	51
+bezirk	52
+bidi	53
+bild-flagge-rahmen	54
+bild-text	55
+bild1-beschreibung	56
+bild2-beschreibung	57
+bildbreite	58
+bildgröße	59
+bildname	60
+billed	61
+binnengewässerfläche	62
+bip-erweitert	63
+birth place	64
+birthdate	65
+birthplace	66
+bis jgd jahr	67
+breite	68
+breitenminute	69
+breitensekunde	70
+buchid	71
+bundesland	72
+bundesstaat	73
+bundesstaat-link	74
+bundesstrasse	75
+bürgermeister	76
+caption	77
+cbs-code	78
+ccaa	79
+censo	80
+census	81
+cheftrainer	82
+city	83
+club	84
+cname	85
+college	86
+comarca	87
+comunilimitrofi	88
+consj	89
+country	90
+county	91
+currentnumber	92
+currentteam	93
+datenstand	94
+deathdate	95
+debuet	96
+debut	97
+debut jahr	98
+debut rennen	99
+debutdate	100
+debutteam	101
+debutyear	102
+departamento	103
+departement	104
+deutscher name	105
+diagramm niederschlag	106
+diagramm niederschlag höhe	107
+diagramm temperatur	108
+dial code	109
+dichte	110
+didascalia	111
+diff	112
+direktionsbezirk	113
+distancia	114
+distrikt	115
+disziplin	116
+divisioni confinanti	117
+draftjahr	118
+draftpick	119
+draftround	120
+draftverein	121
+draftyear	122
+département	123
+einkommensklasse	124
+einwohner	125
+einwohner jahr	126
+einwohnerdatum	127
+einwohnerstand	128
+einzelbilanz	129
+elevation	130
+entität	131
+erfolge	132
+erfolgjahre	133
+ergebnisalt	134
+ergebnisneu	135
+ersteprofisaison	136
+fanghand	137
+farbe	138
+farbe hintergrund	139
+farbe schrift	140
+farmteams	141
+fifa abkürzung	142
+finalstadion	143
+finalyear	144
+fips	145
+flaeche	146
+flagge	147
+flusssystem	148
+fläche	149
+flächelk	150
+franchisename	151
+frazioni	152
+frenchopenergebnisdoppel	153
+frenchopenergebniseinzel	154
+fuehrungs km	155
+fuehrungs runden	156
+gast elfmeter	157
+gast gelbe karten	158
+gast name	159
+gast rote karten	160
+gast spieler	161
+gast tore	162
+gebiet	163
+geburtsland	164
+geburtsort	165
+gegründet	166
+gelbe karten	167
+gemeinde	168
+gemeindeart	169
+gemeindebezirke	170
+gemeindefläche	171
+gemeinden	172
+gemeindename	173
+gemeindenummer	174
+gemeinderat	175
+gemeinderatanzahl	176
+gesamt-score	177
+geschichte	178
+geschlecht	179
+gespanschaft	180
+gewinner	181
+gewässer	182
+gliederung	183
+goals	184
+grossstädte	185
+gruppe	186
+größe	187
+gründer1b	188
+gründung	189
+gründungsort	190
+hauptinsel	191
+hauptort	192
+hauptstadt	193
+hauptstädte/residenzen	194
+height	195
+heim elfmeter	196
+heim gelbe karten	197
+heim name	198
+heim spieler	199
+heim tore	200
+heimstadion	201
+historische region	202
+histregion	203
+ho niederlage	204
+ho sieg	205
+hoechstedoppelplatzierung	206
+hoechsteeinzelplatzierung	207
+homepage	208
+höhe des zentrums	209
+infoboxtitel	210
+inseln	211
+isbn	212
+isla	213
+isoreg	214
+issn	215
+jahr	216
+jahre	217
+jahre-vereine	218
+jetztverein	219
+jugendjahre	220
+jugendverein	221
+jugendvereine	222
+kanton	223
+kapitän	224
+karrierebeginn	225
+karte	226
+kartengrösse	227
+keine wertung	228
+keintext	229
+kleingebiet	230
+klubfarben	231
+komitat	232
+kommentar	233
+kommun	234
+kommune	235
+kommunennummer	236
+kontinent	237
+kontturnbeste	238
+kontturnerste	239
+kontturnteiln	240
+koordinate breitengrad	241
+koordinate längengrad	242
+koordinate längenminute	243
+koordinatebreitengrad	244
+koordinatebreitenminute	245
+koordinatelängengrad	246
+koordinatelängenminute	247
+kreis	248
+kreisgemeinden	249
+kreisverwaltungort	250
+kurz	251
+kurzbeschreibung	252
+kurzname	253
+kämpfe	254
+künstler	255
+laenge	256
+laengengrad	257
+lage	258
+land	259
+land deutsch	260
+land regional	261
+landfläche	262
+landkreis	263
+lang	264
+langname	265
+lemma	266
+letzter start	267
+letztes jahr	268
+lfapr	269
+lfaug	270
+lfdez	271
+lffeb	272
+lfjan	273
+lfjul	274
+lfjun	275
+lfmai	276
+lfmär	277
+lfnov	278
+lfokt	279
+lfsep	280
+liga	281
+list 1.	282
+logo breite	283
+logogrösse	284
+lokalebezeichnung	285
+long	286
+län	287
+länder	288
+ländercode	289
+längenminute	290
+längensekunde	291
+mandat	292
+mannschaften	293
+map type	294
+mapsize	295
+marksize	296
+max-höhe	297
+max-höhe-bezug	298
+medien	299
+meister	300
+mitarbeiterzahl	301
+mitglieder	302
+monat	303
+mündungshöhe	304
+nachfolger	305
+nachfolgerin	306
+name	307
+name de	308
+name in romaji	309
+name ort	310
+name-amtssprache	311
+name-deutsch	312
+name-hauptebene	313
+namedeutsch	314
+namelateinisch	315
+namerumänisch	316
+names	317
+nation	318
+nationalität	319
+nationaljahre	320
+nationalmannschaft	321
+nationalspiele	322
+nickname	323
+niederlagen	324
+nombre	325
+nomcommune	326
+nomecomune	327
+nomlocale	328
+nord	329
+nordost	330
+nordwest	331
+number	332
+nummer	333
+nuts	334
+oblast	335
+official name	336
+okato	337
+okres	338
+onscode	339
+originalsprache	340
+originaltitel	341
+orteinwdatum	342
+ortfläche	343
+ortschaften	344
+ortsgemeinschaften	345
+ortsteil	346
+ortsteile	347
+partei	348
+partner	349
+patrono	350
+pattern la	351
+pattern ra	352
+pegi	353
+platz	354
+platz1-score	355
+platz2-score	356
+platz3-score	357
+plz-alt	358
+podien	359
+pokal-sieger	360
+pokalsieger	361
+poles	362
+population date	363
+position	364
+positionskarte	365
+poskarte	366
+post town	367
+postcode area	368
+postcode district	369
+powiat	370
+prefisso	371
+preisgeld	372
+profijahre	373
+promotion	374
+provincia	375
+provinz	376
+prozent	377
+präfektur	378
+präsident	379
+punkte	380
+quelle	381
+rajon	382
+rangbev	383
+rangeinwohner	384
+rathaus blocknummer	385
+rathaus hausnummer	386
+rathaus postleitzahl	387
+rathaus stadt-/gemeindeteilname	388
+rd1-score1-	389
+rd1-seed	390
+rd1-team	391
+rd2-score1-	392
+rd2-team	393
+rd3-seed	394
+rd3-team	395
+rd4-score	396
+rd5-score	397
+rd5-team	398
+rdapr	399
+rdaug	400
+rddez	401
+rdfeb	402
+rdjan	403
+rdjul	404
+rdjun	405
+rdmai	406
+rdmär	407
+rdnov	408
+rdokt	409
+rdsep	410
+realname	411
+regierungsbezirk	412
+region	413
+region-iso	414
+regionalbezirk	415
+regione	416
+rekordspieler	417
+rekordtorschütze	418
+release	419
+relegationsspiele	420
+rennen	421
+resides	422
+rote karten	423
+runde	424
+région	425
+samtgemeinde	426
+scb-code	427
+schiedsrichter stadt	428
+schiene	429
+schienen	430
+schnellste runden	431
+schulzenämter	432
+schusshand	433
+seitebis	434
+seitevon	435
+shapr	436
+shaug	437
+shdez	438
+shfeb	439
+shire county	440
+shire district	441
+shjan	442
+shjul	443
+shjun	444
+shmai	445
+shmär	446
+shnov	447
+shokt	448
+shsep	449
+siege	450
+sieger	451
+sitz des ortes	452
+sitze1	453
+sortname	454
+sous-préfectures	455
+spalte	456
+spalten	457
+sperrklausel	458
+spiel1-spieler1-score	459
+spiel1-spieler2-score	460
+spiel2-spieler1-score	461
+spiel2-spieler2-score	462
+spiel3-spieler1-score	463
+spiel3-spieler2-score	464
+spiele	465
+spielhand	466
+spielstätte	467
+spitzname	468
+sprache	469
+staat	470
+staatsform	471
+staatsoberhaupt	472
+stadion	473
+stadt	474
+stadtbezirke	475
+stadtfest	476
+stadtgemeinden	477
+stadtvorsitz	478
+stand einwohner	479
+stand metropolregion	480
+standort	481
+starts	482
+stat1label	483
+stat1value	484
+stat2label	485
+stat2value	486
+stat3label	487
+stat3value	488
+static image caption	489
+statlabel	490
+status seit	491
+statvalue	492
+statweek	493
+statyear	494
+stelle	495
+sterbedatum	496
+sterbeland	497
+sterbeort	498
+straße	499
+straßen	500
+städte	501
+sued	502
+suedost	503
+suedwest	504
+superficie	505
+team	506
+team-width	507
+teamname	508
+teams	509
+teilnehmer	510
+telefon-vorwahl	511
+telefonvorwahl	512
+textoderbild	513
+throws	514
+titel	515
+titelerg	516
+titelverteidiger	517
+title	518
+todesort	519
+torschützenkönig	520
+trainer	521
+trainerjahre	522
+trainerjahre-trainervereine	523
+trainervereine	524
+trikotnummer	525
+turnierart	526
+turniername	527
+type	528
+uefa champions league	529
+uefa champions league quali	530
+unabhängigkeit	531
+unentschieden	532
+unitary scotland	533
+untertitel	534
+usopenergebnisdoppel	535
+usopenergebniseinzel	536
+usopenergebnismixed	537
+ve1-name	538
+ve2-name	539
+ve3-name	540
+verband	541
+verbandsgemeinde	542
+verbandsname	543
+verein	544
+vereine	545
+vereinjahre	546
+vereinsfarben	547
+vereinssitz	548
+verlag	549
+verwaltung	550
+verwaltungort	551
+verwaltungsgemeinschaft	552
+verwaltungssitz	553
+verwsitz	554
+vollständigername	555
+vorgänger	556
+vorgängerin	557
+vorheriges	558
+vorläufer	559
+vorstand	560
+wahlkreis	561
+wahlspruch	562
+wappen	563
+wasser flaeche	564
+wasserfläche	565
+weight	566
+welt	567
+weltrang	568
+west	569
+wichtigsteerfolge	570
+wimbledonergebnisdoppel	571
+wimbledonergebniseinzel	572
+wimbledonergebnismixed	573
+wm-bilanz	574
+wmbeste	575
+wmteilnahme	576
+woiwodschaft	577
+worldcupbeste	578
+wtapr	579
+wtaug	580
+wtdez	581
+wtfeb	582
+wtjan	583
+wtjul	584
+wtjun	585
+wtmai	586
+wtmär	587
+wtnov	588
+wtokt	589
+wtsep	590
+wurfhand	591
+währung	592
+zeit	593
+zeitzone	594
+zensus	595

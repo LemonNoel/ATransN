@@ -1,0 +1,2491 @@
+- bgcolor	0
+../tv/wayside/wayside en.xml&xvar	1
+125 last position	2
+1a	3
+1namedata	4
+1option	5
+1p	6
+1stishmo	7
+1up	8
+1y	9
+2000density	10
+2000densityus	11
+2011 access date	12
+250 last position	13
+250 last season	14
+2a	15
+2ndregional cup apps	16
+2ndregional cup best	17
+2option	18
+2p	19
+2seed-score	20
+2y	21
+3 body	22
+3 shorts	23
+3a	24
+3option	25
+3option name	26
+3p	27
+3rdregional cup apps	28
+3y	29
+4 body	30
+4 shorts	31
+4p	32
+4seed-score	33
+4y	34
+5p	35
+5y	36
+6pp	37
+8a	38
+a	39
+a body	40
+a shorts	41
+abbreviation	42
+abode	43
+above-style	44
+abr min reg	45
+abr precip días	46
+acsb	47
+active years end date	48
+active years end year	49
+active years start date	50
+active years start year	51
+activity sector	52
+additional info	53
+address	54
+adjcaentcomuni	55
+adm ctr name	56
+adm ctr of	57
+adm ctr type	58
+adm selsoviet jur	59
+admctrname	60
+admin center	61
+admin hq	62
+adminhq	63
+admittanceorder	64
+aet	65
+after	66
+after leaders	67
+aftertouch	68
+agab	69
+agdb	70
+agfb	71
+agglomeration	72
+ago min	73
+ago min reg	74
+ago precip días	75
+alias	76
+align	77
+allamericans	78
+allegiance	79
+alma mater	80
+alongside	81
+alt	82
+alt coat	83
+alt title	84
+alternate names	85
+alternative names	86
+alttitle	87
+am	88
+am nat	89
+amt	90
+antenna spire	91
+anual min	92
+appearances	93
+apr high c	94
+apr low c	95
+apr mean c	96
+apr precipitation cm	97
+apr precipitation days	98
+apr precipitation inch	99
+apr precipitation mm	100
+apr rain days	101
+apr rain mm	102
+apr record high f	103
+apr record low c	104
+apr record low f	105
+apr snow cm	106
+apr snow days	107
+apr snow inch	108
+apr snowfall cm	109
+apr sun	110
+aprank	111
+aprd sun	112
+aptsb	113
+arbeiderpartiet	114
+arcb	115
+archipelago	116
+architect	117
+area blank1 title	118
+area code	119
+area code type	120
+area council rank	121
+area km	122
+area label	123
+area land km	124
+area magnitude	125
+area metro km	126
+area of what	127
+area percent	128
+area rank	129
+area round	130
+area scale	131
+area source	132
+area sq mi	133
+area total km	134
+area total rank	135
+area total sq mi	136
+area urban	137
+area urban km	138
+area water km	139
+area water percent	140
+arearank	141
+areasecondyear	142
+arms	143
+arms caption	144
+arms image	145
+arrondissement	146
+articles	147
+arwu n	148
+arwu nu	149
+arwu w	150
+as	151
+asof	152
+assist	153
+associated acts	154
+associated band	155
+associated musical artist	156
+asst coach	157
+asst manager	158
+athldirectordisp	159
+atlosses	160
+attend	161
+attendance	162
+attorney general end	163
+attorney general start	164
+attygen	165
+attygen end	166
+attygen start	167
+aug chill	168
+aug high f	169
+aug low c	170
+aug mean c	171
+aug precipitation cm	172
+aug precipitation days	173
+aug precipitation inch	174
+aug precipitation mm	175
+aug rain days	176
+aug rain mm	177
+aug record high f	178
+aug record low c	179
+aug snow cm	180
+aug snow days	181
+aug snow inch	182
+aug snowfall cm	183
+aug sun	184
+augd sun	185
+australianopendoublesresult	186
+australianopenresult	187
+autocat	188
+autonomous community	189
+award	190
+award date	191
+award1n	192
+award1w	193
+award2n	194
+award2w	195
+award3n	196
+award3w	197
+awarded by	198
+awards	199
+away	200
+aycb	201
+b	202
+b bball	203
+b bsball	204
+b chess	205
+b fencing	206
+b ftball	207
+b judo	208
+b swim	209
+b taekwd	210
+b tbltenn	211
+b track	212
+b vball	213
+b-side	214
+back	215
+background	216
+background color	217
+badge size	218
+ballon d'or winners	219
+banking end	220
+barwidth	221
+base width	222
+based in	223
+based on	224
+basin countries	225
+bats	226
+battalions	227
+battle honours	228
+battles	229
+bcsfirstweek	230
+before	231
+best	232
+best goal difference-team	233
+beverage	234
+bezirk	235
+bg	236
+bgcolor	237
+bgcolour	238
+biggest cities	239
+biggest goal margin	240
+bigwin	241
+billed	242
+birth name	243
+birth place	244
+birthname	245
+blackboard	246
+blank emblem size	247
+blank info	248
+blank info sec	249
+blank name	250
+blank name sec	251
+blank1 info	252
+blank1 info sec	253
+blank1 name sec	254
+blank2 info	255
+blank2 info sec	256
+blank2 name sec	257
+blank3 info	258
+blank3 info sec	259
+blank4 info	260
+blank4 info sec	261
+blank4 name	262
+blank5 info	263
+blank6 info	264
+blank7 info	265
+blp sources	266
+bodyalign	267
+border count	268
+border p	269
+border s	270
+borderingstates	271
+bowllosses	272
+bowlties	273
+bowlwins	274
+box width	275
+braces	276
+braces player	277
+branch	278
+brand	279
+branding	280
+braçodireito	281
+braçoesquerdo	282
+bridge	283
+budget	284
+builder	285
+bundesland	286
+burial place	287
+business capital	288
+bw	289
+by	290
+bürgermeister	291
+c	292
+c taekp	293
+calling code	294
+calções	295
+candidate	296
+candidate2 party	297
+candidate3 party	298
+candidate3 votes	299
+candidate4 party	300
+candidate5 party	301
+canton	302
+capacity	303
+capital	304
+capital city	305
+capital country	306
+capital elevation	307
+capital exile	308
+capital lat m	309
+capital lat ns	310
+capital lat s	311
+capital long d	312
+capital long ew	313
+capital long m	314
+capital long s	315
+capital of	316
+capital region	317
+caps	318
+caption	319
+caption position	320
+cardinal by	321
+career start	322
+careerprizemoney	323
+carton	324
+casualties	325
+category hide	326
+ceiling	327
+cellpadding	328
+centre	329
+ceo	330
+ceremonial chief	331
+cf	332
+cf nat	333
+cgc nu	334
+ch1903 x	335
+ch1903 y	336
+chairman party	337
+chairperson	338
+championships	339
+chapmancode	340
+charingx direction	341
+charingx distance mi	342
+cheight	343
+chief party	344
+child	345
+children	346
+children of maria theresa]]'''\n</div>\n<div class	347
+childrenandfam start	348
+chronology	349
+ci	350
+cinematography	351
+cities	352
+citizenship	353
+citizenship 2 title	354
+citizenship 4 title	355
+city motto	356
+city of residence	357
+city raions	358
+city type	359
+city-served	360
+cityhalladdress	361
+cityhallphone	362
+civil parish	363
+cj	364
+class	365
+class wins	366
+classification	367
+clinics	368
+close	369
+club	370
+club-update	371
+clubname	372
+clubnat	373
+clubnumber	374
+clubs	375
+cm	376
+cmts	377
+cname	378
+co	379
+coa size	380
+coach	381
+coachdoublestitles	382
+coachrank	383
+coat of arms	384
+coat of arms legend	385
+col2width	386
+collapsed	387
+collapsible	388
+collectivity name	389
+college	390
+colonnes	391
+color1hex	392
+color2hex	393
+colors	394
+colour text	395
+colours	396
+comaffairs end	397
+comaffairs start	398
+combatant	399
+command structure	400
+commander1 label	401
+commander2 label	402
+commands	403
+commin name	404
+common languages	405
+common name	406
+commons	407
+commons-search	408
+commonscat	409
+commoscat	410
+commune	411
+commune centre	412
+communes	413
+communications and transportation end	414
+communications and transportation start	415
+community wales	416
+compact	417
+company name	418
+company slogan	419
+competencies	420
+compilation	421
+compiler	422
+complete	423
+compmonth	424
+conf record	425
+conf titles	426
+conf wins vacated	427
+confederations cup apps	428
+confederations cup best	429
+confederations cup first	430
+conflict	431
+conftitles	432
+confwinsvacated	433
+connectivity	434
+consecration date	435
+constituency westminster	436
+cont	437
+content	438
+continent	439
+controlledby	440
+conventional long name	441
+converted	442
+coor pinpoint	443
+coordinates display	444
+coordinates region	445
+coordinates type	446
+copyright date	447
+corner	448
+corpo	449
+council	450
+council seats	451
+councildetails	452
+countries	453
+country	454
+country 1 admin divisions	455
+country 1 largest city	456
+country admin divisions	457
+country admin divisions title	458
+country capital city	459
+country flag	460
+country largest city	461
+country leader title	462
+country1 flag	463
+countryflag	464
+countytown	465
+cr	466
+crew	467
+cs	468
+csb	469
+cteam	470
+cultural origins	471
+cultures	472
+currency	473
+current cat date	474
+current team name	475
+current title	476
+current year	477
+currentclub	478
+currentlens	479
+currentnumber	480
+currentseason	481
+currentteam	482
+currenttraininglocations	483
+cust data	484
+cwidth	485
+cwur n	486
+cwur w	487
+d	488
+d bsball	489
+dance	490
+danger	491
+data	492
+data max	493
+date end	494
+date event	495
+date post	496
+date pre	497
+date start	498
+date2 type	499
+dates	500
+db	501
+death cause	502
+death place	503
+debutdate	504
+debutteam	505
+debutyear	506
+dec high c	507
+dec low c	508
+dec low f	509
+dec mean c	510
+dec percentsun	511
+dec precipitation cm	512
+dec precipitation days	513
+dec precipitation inch	514
+dec precipitation mm	515
+dec rain days	516
+dec rain mm	517
+dec record high c	518
+dec record low c	519
+dec record low f	520
+dec snow cm	521
+dec snow days	522
+dec snow inch	523
+dec sun	524
+decd sun	525
+demographics1 info	526
+demographics1 title	527
+demographics2 info	528
+demographics2 name	529
+demographics2 title	530
+demonym	531
+density	532
+density km	533
+density rank	534
+densityrank	535
+departments	536
+dept	537
+deputy	538
+derivatives	539
+description	540
+designated other1 num position	541
+designated other1 number	542
+designation	543
+designation1 criteria	544
+designation1 free1name	545
+designation1 free1value	546
+designation1 number	547
+designation4 number	548
+designer	549
+developed	550
+df	551
+dia	552
+dial code	553
+dialling code	554
+dic min reg	555
+dic precip	556
+dic precip días	557
+dir	558
+discharge location	559
+dissolution	560
+dist	561
+distance	562
+districts	563
+districts number	564
+div	565
+division champs	566
+division place	567
+division titles	568
+divisions	569
+divisionsnames	570
+divtitles	571
+divtitles.	572
+dm	573
+dmv end	574
+doctoral advisor	575
+doctoral student	576
+doctoral students	577
+document name	578
+doublesrecord	579
+doublestitles	580
+draft	581
+draft pick	582
+draft round	583
+draft team	584
+draft year	585
+draftpick	586
+draftround	587
+draftyear	588
+draws	589
+driver's seat on	590
+drives on	591
+dscheme	592
+east	593
+ec	594
+ecgrowth start	595
+eci	596
+edge	597
+edges	598
+edinburgh distance	599
+editing	600
+education	601
+ef	602
+ef rank	603
+electdistrict	604
+election title	605
+electoralvotes	606
+elevation	607
+elevation ft	608
+elevation m	609
+elevation max	610
+elevation max m	611
+elevation min	612
+elevation min ft	613
+elevation min m	614
+elevation round	615
+elevator count	616
+elo max	617
+elo max date	618
+elo min	619
+elo rank	620
+embedded	621
+emergency telephone number	622
+emeritus	623
+empire	624
+en name	625
+endishmo	626
+endtheme	627
+ene min reg	628
+ene precip	629
+ene precip días	630
+englishmotto	631
+englishname	632
+ep	633
+episodenumber	634
+episodes	635
+er	636
+era	637
+esc best	638
+espn	639
+espn ref title	640
+established	641
+established date	642
+established event	643
+established title	644
+established type	645
+established1 type	646
+established2 type	647
+established3 type	648
+ethnic groups	649
+ethnic groups year	650
+ethnicity	651
+etymology	652
+eu-	653
+eurog	654
+europarl	655
+ev	656
+event	657
+event end	658
+event name	659
+event post	660
+event pre	661
+event start	662
+executive	663
+executive members	664
+executive number of members	665
+expiry	666
+external links	667
+extinct date	668
+extlinks	669
+extra	670
+extra column	671
+eye color	672
+f	673
+fam	674
+family	675
+fangraphs	676
+fast time	677
+fastest goal	678
+fastest goal opponent	679
+fastest goal player	680
+fastest goal sub opponent	681
+fastest goal sub player	682
+fastest goal sub team	683
+fastest goal team	684
+fastest laps	685
+father	686
+fc	687
+fcumpired	688
+feb high c	689
+feb low c	690
+feb low f	691
+feb mean c	692
+feb min reg	693
+feb precip	694
+feb precip días	695
+feb precipitation cm	696
+feb precipitation days	697
+feb precipitation inch	698
+feb precipitation mm	699
+feb rain days	700
+feb rain mm	701
+feb record high c	702
+feb record low c	703
+feb record low f	704
+feb snow cm	705
+feb snow days	706
+feb snow inch	707
+feb sun	708
+febd sun	709
+federal subject	710
+ff	711
+fg	712
+fhprank	713
+fiagrade	714
+field	715
+fields	716
+fifa max	717
+fifa rank	718
+fifa trigramme	719
+fightsong	720
+filename	721
+filetype	722
+final rank	723
+final vote	724
+final2date	725
+finalteam	726
+finalyear	727
+finnish official	728
+fireboats	729
+first	730
+first aired	731
+first brace opponent	732
+first brace team	733
+first game	734
+first goal opponent	735
+first goal player	736
+first goal team	737
+first leaders	738
+first loss	739
+first monarch	740
+first officeholder	741
+first race	742
+first run	743
+first win	744
+first year	745
+firstentry	746
+firstminister	747
+firstseason	748
+fixtures	749
+flag border	750
+flag image	751
+flag size	752
+flagimagesize	753
+flagsize	754
+floor area	755
+floor count	756
+fm	757
+followingevent	758
+font color	759
+footer	760
+footer align	761
+footnote	762
+footnote a	763
+footnote b	764
+footnote c	765
+footnotes	766
+forbes	767
+force national map	768
+foreign french	769
+foreigners	770
+format	771
+former	772
+former parties	773
+former team	774
+former teams	775
+formerly	776
+formertraininglocations	777
+forward	778
+founded by	779
+founded place	780
+founding	781
+fr	782
+frazioni	783
+free	784
+fremskrittspartiet	785
+frenchopendoublesresult	786
+frenchopenresult	787
+frequency	788
+from	789
+fsi rank	790
+ft	791
+full name	792
+fullname	793
+fusion genres	794
+fusiongenres	795
+fx	796
+g	797
+g fencing	798
+g swim	799
+g vball	800
+ga	801
+gab	802
+gain	803
+galactic year	804
+gamepro	805
+garrison	806
+gdb	807
+gdp nominal per capita rank	808
+gdp nominal per capita year	809
+gdp nominal rank	810
+gdp nominal year	811
+gdp per capita rank	812
+gdp per capita year	813
+gdp percent	814
+gdp ppp per capita rank	815
+gdp ppp per capita year	816
+gdp ppp rank	817
+gdp ppp year	818
+gdp rank	819
+gdp year	820
+gdppercapitarank	821
+gdprank	822
+gdpyear	823
+gemeinderat	824
+gemeindeverwaltungsverband	825
+gemstone	826
+gender	827
+genre	828
+genus	829
+genus authority	830
+german name	831
+gf	832
+gfb	833
+gi	834
+gini rank	835
+gini year	836
+gk	837
+gk nat	838
+gliederung	839
+goals	840
+government country	841
+government lat m	842
+government lat ns	843
+government lat s	844
+government long d	845
+government long ew	846
+government long m	847
+government long s	848
+government region	849
+government state	850
+government type	851
+governor	852
+governor date	853
+governor-general	854
+gp first win	855
+gp last race	856
+gp last win	857
+gradar	858
+grand prix	859
+grandslamsdoublesresults	860
+grass	861
+grayshirt	862
+gross	863
+ground	864
+gsp per capita rank	865
+gsp rank	866
+gsp year	867
+gspot	868
+gspy	869
+guests	870
+gur	871
+gva rank	872
+h	873
+h body	874
+h shorts	875
+halign	876
+halloffame	877
+harrisfirstweek	878
+hazmat	879
+hclosses	880
+hcwins	881
+hcyear	882
+hdi rank	883
+hdi year	884
+hdirank	885
+he	886
+head	887
+headcoachyear	888
+header	889
+headerstyle	890
+headline	891
+height	892
+height ft	893
+height in	894
+height lbs	895
+heightft	896
+heightin	897
+heightinch	898
+heismans	899
+help	900
+hero	901
+hex	902
+hh	903
+hi asshol	904
+hide services	905
+hidenote	906
+high school	907
+high sheriff name	908
+higher	909
+highest country	910
+highest elevation	911
+highest lat m	912
+highest lat ns	913
+highest long d	914
+highest long ew	915
+highest long m	916
+highest long s	917
+highest region	918
+highest state	919
+highestelevus	920
+highestsinglesranking	921
+highlights	922
+highschool	923
+historic region	924
+history	925
+holiday	926
+home stadium	927
+home town	928
+homecoming	929
+homeland start	930
+hometown	931
+honorific prefix	932
+honorific-suffix	933
+house	934
+house seats	935
+houseleader	936
+houseseats	937
+hpi rank	938
+hpi year	939
+hq	940
+hr	941
+hrlr e	942
+hrseats	943
+hserv start	944
+ht	945
+humidity colour	946
+höhe	947
+høyre	948
+i	949
+id	950
+identification symbol	951
+ideology	952
+idnumber	953
+ign	954
+image caption	955
+image coat of arms size	956
+image flag size	957
+image map	958
+image map caption	959
+image map2 caption	960
+image size	961
+image skyline	962
+image width	963
+image-left	964
+image-top	965
+imagesize	966
+imagewidth	967
+imgae size	968
+imperial first	969
+in	970
+inaugural holder	971
+incomerank	972
+inflow	973
+influenced	974
+influenced by	975
+influences	976
+inhabloc cat	977
+inj	978
+insee	979
+insigniasize	980
+instrument	981
+intercommunality	982
+is bladed	983
+island	984
+islands	985
+iso	986
+iso 3166-1 alpha	987
+iso 3166-1 num	988
+iso 3166-1 numeric	989
+iso region	990
+iso3166code	991
+issue	992
+issues	993
+italian name	994
+italic title	995
+iucn category	996
+ja kanji	997
+jan high c	998
+jan low c	999
+jan low f	1000
+jan mean c	1001
+jan precipitation cm	1002
+jan precipitation days	1003
+jan precipitation inch	1004
+jan precipitation mm	1005
+jan rain days	1006
+jan rain mm	1007
+jan record high c	1008
+jan record low c	1009
+jan record low f	1010
+jan snow cm	1011
+jan snow days	1012
+jan snow inch	1013
+jan sun	1014
+jand sun	1015
+jsport	1016
+judge	1017
+jul chill	1018
+jul high f	1019
+jul low c	1020
+jul mean c	1021
+jul min	1022
+jul precip días	1023
+jul precipitation cm	1024
+jul precipitation days	1025
+jul precipitation inch	1026
+jul precipitation mm	1027
+jul rain days	1028
+jul rain mm	1029
+jul record high f	1030
+jul record low c	1031
+jul snow cm	1032
+jul snow days	1033
+jul snow inch	1034
+jul snowfall cm	1035
+jul sun	1036
+juld sun	1037
+jumps ex	1038
+jumps fs	1039
+jun chill	1040
+jun high f	1041
+jun low c	1042
+jun mean c	1043
+jun min	1044
+jun precipitation cm	1045
+jun precipitation days	1046
+jun precipitation inch	1047
+jun precipitation mm	1048
+jun rain days	1049
+jun rain mm	1050
+jun record high f	1051
+jun record low c	1052
+jun snow cm	1053
+jun snow days	1054
+jun snow inch	1055
+jun snowfall cm	1056
+jun sun	1057
+jund sun	1058
+jurisdiction	1059
+k	1060
+key	1061
+keyboard	1062
+kfz	1063
+kgs	1064
+kgs nr	1065
+known for	1066
+ko	1067
+ko-score	1068
+kreis	1069
+kristelig folkeparti	1070
+l	1071
+label	1072
+label map	1073
+label position	1074
+label type	1075
+labels	1076
+labelstyle	1077
+landkreis	1078
+landrank	1079
+landscape	1080
+langs	1081
+language	1082
+language blank	1083
+languages sub	1084
+languages type	1085
+languages2 sub	1086
+largest	1087
+largest cities	1088
+largest city	1089
+largest loss	1090
+largest metropolitan area	1091
+largest settlement	1092
+largest town	1093
+largest win	1094
+largestcity	1095
+largestmetro	1096
+last	1097
+last album	1098
+last brace opponent	1099
+last brace player	1100
+last brace team	1101
+last goal opponent	1102
+last goal player	1103
+last goal team	1104
+last monarch	1105
+last officeholder	1106
+last race	1107
+last season	1108
+last single	1109
+last win	1110
+lastentry	1111
+lasttestagainst	1112
+lasttestyear	1113
+lat hem	1114
+lat m	1115
+lat ns	1116
+lat s	1117
+lat seconds	1118
+lat5 min	1119
+latd	1120
+latest	1121
+latest goal opponent	1122
+latest goal team	1123
+latest goal win opponent	1124
+latest goal win player	1125
+latest goal win team	1126
+latitudeminutes	1127
+latm	1128
+latns	1129
+lats	1130
+layout	1131
+lb	1132
+lb nat	1133
+lb shift	1134
+lbs	1135
+lcb	1136
+lcb nat	1137
+lcf nat	1138
+lcm nat	1139
+ld	1140
+leader	1141
+leader party	1142
+leader title	1143
+leader1 name	1144
+leader1 title	1145
+leader2 name	1146
+leader3 name	1147
+leader3 title	1148
+leader4 name	1149
+leader5 name	1150
+league	1151
+least clean sheets	1152
+least clean sheets keeper	1153
+least clean sheets keeper-keeper	1154
+least clean sheets opponent	1155
+least clean sheets opponent-team	1156
+least clean sheets-team	1157
+least draws	1158
+least goals	1159
+least goals conceded	1160
+least goals conceded-team	1161
+least goals-team	1162
+least group points	1163
+least group points team	1164
+least losses	1165
+least losses team	1166
+least wins	1167
+least wins team	1168
+left control	1169
+legislature	1170
+length	1171
+length mi	1172
+lengthus	1173
+letter	1174
+letters	1175
+lga	1176
+licence	1177
+license plate	1178
+license plates	1179
+lieutenancy england	1180
+lieutenancy ireland	1181
+lieutenancy northern ireland	1182
+lieutenancy scotland	1183
+lieutenancy wales	1184
+life	1185
+life span	1186
+limited	1187
+linecolor	1188
+link	1189
+link target	1190
+linking name	1191
+links	1192
+list	1193
+list 1.	1194
+list 2.	1195
+list 3.	1196
+lm	1197
+lm nat	1198
+local scenes	1199
+locale	1200
+location	1201
+location city	1202
+location country	1203
+location map	1204
+location town	1205
+locations	1206
+locator map size	1207
+logo size	1208
+logo width	1209
+logosize	1210
+lon hem	1211
+london borough	1212
+london direction	1213
+london distance	1214
+london distance km	1215
+london distance mi	1216
+long d	1217
+long ew	1218
+long m	1219
+long s	1220
+long seconds	1221
+longew	1222
+longm	1223
+longs	1224
+loser party	1225
+losses	1226
+lost to	1227
+lowerhouse	1228
+lowest	1229
+lowest country	1230
+lowest elevation	1231
+lowest lat ns	1232
+lowest location	1233
+lowest long d	1234
+lowest long ew	1235
+lowest m	1236
+lowest state	1237
+lowestelev	1238
+lowestelevus	1239
+lowestpoint	1240
+lugar	1241
+lw	1242
+lw nat	1243
+m	1244
+m badmnt	1245
+m bball	1246
+m bsball	1247
+m bvolley	1248
+m chess	1249
+m fencing	1250
+m ftball	1251
+m judo	1252
+m swim	1253
+m taekwd	1254
+m tbltenn	1255
+m tennis	1256
+m track	1257
+m vball	1258
+main classification	1259
+main interest	1260
+main interests	1261
+major cities	1262
+major islands	1263
+majority leader	1264
+majority percent	1265
+majorityleader	1266
+majorwins	1267
+management country	1268
+management lat ns	1269
+management lat s	1270
+management long ew	1271
+manager club	1272
+managerclubs	1273
+manageryears	1274
+map	1275
+map caption	1276
+map custom	1277
+map label position	1278
+map loc	1279
+map locator	1280
+map relief	1281
+map type	1282
+map width	1283
+map1 size	1284
+map2 width	1285
+mapsize	1286
+mar high c	1287
+mar high f	1288
+mar low c	1289
+mar mean c	1290
+mar min reg	1291
+mar precip	1292
+mar precip días	1293
+mar precipitation cm	1294
+mar precipitation days	1295
+mar precipitation inch	1296
+mar precipitation mm	1297
+mar rain days	1298
+mar rain mm	1299
+mar record high f	1300
+mar record low c	1301
+mar record low f	1302
+mar snow cm	1303
+mar snow days	1304
+mar snow inch	1305
+mar snowfall cm	1306
+mar sun	1307
+march	1308
+mard sun	1309
+marginleft	1310
+marginright	1311
+marine fish	1312
+marine mammal	1313
+mark2size	1314
+mark3size	1315
+mark4size	1316
+mark5size	1317
+marksize	1318
+may chill	1319
+may high f	1320
+may low c	1321
+may mean c	1322
+may min reg	1323
+may precip días	1324
+may precipitation cm	1325
+may precipitation days	1326
+may precipitation inch	1327
+may precipitation mm	1328
+may rain days	1329
+may rain mm	1330
+may record high f	1331
+may record low c	1332
+may snow cm	1333
+may snow days	1334
+may snow inch	1335
+may snowfall cm	1336
+may sun	1337
+mayd sun	1338
+mayor as of	1339
+mayor asof	1340
+mayor party	1341
+meanelev	1342
+meanelevus	1343
+meaning	1344
+media	1345
+meias	1346
+member	1347
+membership	1348
+membership type	1349
+membership year	1350
+merged	1351
+merger	1352
+metric first	1353
+metric-elev	1354
+metric-rwy	1355
+metro area date	1356
+metro area pop date	1357
+metropolis	1358
+metropolitan borough	1359
+metropolitan county	1360
+mgrtitle	1361
+military branch	1362
+military command	1363
+military rank	1364
+military unit	1365
+mineral	1366
+minority	1367
+mixedtitles	1368
+ml	1369
+mm	1370
+modes	1371
+monarch	1372
+most assists	1373
+most assists-player	1374
+most caps	1375
+most clean sheets	1376
+most clean sheets keeper	1377
+most clean sheets keeper-keeper	1378
+most clean sheets opponent	1379
+most clean sheets opponent-team	1380
+most clean sheets-team	1381
+most consecutive clean sheets	1382
+most consecutive clean sheets keeper	1383
+most consecutive clean sheets keeper-keeper	1384
+most consecutive clean sheets opponent	1385
+most consecutive clean sheets opponent-team	1386
+most consecutive clean sheets-team	1387
+most draws	1388
+most draws team	1389
+most goals assists	1390
+most goals assists-player	1391
+most goals conceded	1392
+most goals conceded-team	1393
+most goals match	1394
+most goals match losing team	1395
+most goals match team	1396
+most goals player	1397
+most goals player match	1398
+most goals player match opponent	1399
+most goals player match player	1400
+most goals player match team	1401
+most goals team-team	1402
+most group points	1403
+most group points team	1404
+most losses	1405
+most losses team	1406
+most tries	1407
+most wins	1408
+most wins team	1409
+mother	1410
+moto2 last position	1411
+moto2 last season	1412
+moto3 last season	1413
+motogp last position	1414
+motogp last season	1415
+mouth	1416
+mouth country	1417
+mouth country flag	1418
+mouth elevation	1419
+mouth elevation imperial	1420
+mouth lat ns	1421
+mouth lat s	1422
+mouth location	1423
+mouth long d	1424
+mouth long ew	1425
+mouth long s	1426
+mouth region	1427
+movement	1428
+mr	1429
+mtvvideon	1430
+mtvvideow	1431
+mun formation1 no of rural settlements	1432
+mun formation1 no of urban settlements	1433
+municipalities	1434
+municipalities number	1435
+municipality	1436
+municipality code	1437
+municipality name	1438
+municipality type	1439
+music credits	1440
+music ex	1441
+music fs	1442
+music sp	1443
+music videos	1444
+musical instrument	1445
+musicians	1446
+mw	1447
+n	1448
+n-search	1449
+name	1450
+name english	1451
+name lang	1452
+name native	1453
+name of cm	1454
+named for	1455
+namedata	1456
+namefr	1457
+names	1458
+narrator	1459
+national	1460
+national anthem	1461
+national assembly	1462
+national motto	1463
+nationalcaps	1464
+nationalgoals	1465
+nationaliity	1466
+nationality	1467
+nationalteam	1468
+nationalteam-update	1469
+nationalyears	1470
+native name link	1471
+native type	1472
+nativename	1473
+natltitles	1474
+nc	1475
+ncaachampionship	1476
+ncaachampionshiprunner-up	1477
+ncaarunnerup	1478
+nearest city	1479
+neighboring municipalities	1480
+net	1481
+network other	1482
+neutral	1483
+next album	1484
+next meeting date	1485
+next season	1486
+next single	1487
+nfl	1488
+nfl start yr	1489
+nickname	1490
+no	1491
+no conf champs	1492
+no of cities towns	1493
+no of selsoviets type	1494
+no of towns of district significance	1495
+no of urban-type settlements	1496
+no of urban-type settlements of district significance	1497
+no pre1970sb champs	1498
+no sb champs	1499
+noautocat	1500
+nobars	1501
+nocat	1502
+nocategory	1503
+nohome	1504
+nolink	1505
+non-eu-	1506
+nonconf	1507
+noprose	1508
+north	1509
+north west	1510
+northeast	1511
+northwest	1512
+nota	1513
+notable commanders	1514
+notable ideas	1515
+notable inmates	1516
+notable instruments	1517
+notable students	1518
+notable works	1519
+notableworks	1520
+note	1521
+notes	1522
+nov high c	1523
+nov low c	1524
+nov mean c	1525
+nov min reg	1526
+nov percentsun	1527
+nov precip	1528
+nov precip días	1529
+nov precipitation cm	1530
+nov precipitation days	1531
+nov precipitation inch	1532
+nov precipitation mm	1533
+nov rain days	1534
+nov rain inch	1535
+nov rain mm	1536
+nov record high f	1537
+nov record low c	1538
+nov record low f	1539
+nov snow cm	1540
+nov snow days	1541
+nov snowfall cm	1542
+nov sol	1543
+nov sun	1544
+novd sun	1545
+ntl team	1546
+ntupdate	1547
+num episodes	1548
+num seasons	1549
+number	1550
+number of representatives elected to u.s. congress	1551
+nutscode	1552
+nynorsk	1553
+o	1554
+occupants	1555
+occupation	1556
+oct high c	1557
+oct low c	1558
+oct mean c	1559
+oct min reg	1560
+oct precip días	1561
+oct precipitation cm	1562
+oct precipitation days	1563
+oct precipitation inch	1564
+oct precipitation mm	1565
+oct rain days	1566
+oct rain mm	1567
+oct record high f	1568
+oct record low c	1569
+oct record low f	1570
+oct snow cm	1571
+oct snow days	1572
+oct snow inch	1573
+oct snowfall cm	1574
+oct sun	1575
+octd sun	1576
+ocyear	1577
+off lang	1578
+office	1579
+official	1580
+official lang	1581
+official language	1582
+official languages	1583
+official name	1584
+official names	1585
+official religion	1586
+officiallang	1587
+officiallanguage	1588
+oldest scorer opponent	1589
+oldest scorer team	1590
+oleft	1591
+oneday	1592
+ongoing	1593
+onidate	1594
+only	1595
+ons	1596
+ons code	1597
+open to public	1598
+opentheme	1599
+operated by	1600
+opmuk	1601
+opprank	1602
+option	1603
+oq	1604
+order	1605
+order in office	1606
+ordinal 1 fs	1607
+ordinal 1 sp	1608
+ordinal 2 fs	1609
+ordinal 2 sp	1610
+ordinal 3 fs	1611
+ordinal 3 sp	1612
+ordinal 4 fs	1613
+ordinal 4 sp	1614
+ordinal 5 fs	1615
+ordinal 5 sp	1616
+ordinal 6 fs	1617
+ordinal 6 sp	1618
+ordinal 7 fs	1619
+ordinal 7 sp	1620
+ordinal 8 fs	1621
+ordinal 8 sp	1622
+ordinal 9 fs	1623
+ordinal 9 sp	1624
+origin	1625
+originalairdate	1626
+originofname	1627
+ot	1628
+other features	1629
+other names	1630
+other party	1631
+other symbol	1632
+other symbol type	1633
+other titles	1634
+other topics	1635
+othername	1636
+otherparty	1637
+othertitles	1638
+ou	1639
+overlay	1640
+overlay10colour	1641
+overlay12top	1642
+overlay13colour	1643
+overlay15colour	1644
+overlay16color	1645
+overlay17top	1646
+overlay18color	1647
+overlay19colour	1648
+overlay24colour	1649
+overlay27colour	1650
+overlay30colour	1651
+overseas collectivity	1652
+overtime	1653
+own goals	1654
+ownership	1655
+oxmuk	1656
+p	1657
+pagfreelabel	1658
+pagfreevalue	1659
+pan american games cup apps	1660
+papal name	1661
+parent	1662
+parents	1663
+parish	1664
+parliament	1665
+parliament members	1666
+parliament number of members	1667
+part	1668
+part count	1669
+part fold	1670
+partei	1671
+parti10prosentendring	1672
+parti10seter	1673
+parti10seterendring	1674
+parti1formannskap	1675
+parti2formannskap	1676
+parti2seter	1677
+parti3formannskap	1678
+parti3prosent	1679
+parti3prosentendring	1680
+parti4formannskap	1681
+parti4seter	1682
+parti5seter	1683
+parti6formannskap	1684
+parti6seter	1685
+parti7formannskap	1686
+parti7seter	1687
+parti7seterendring	1688
+parti8seter	1689
+parti8seterendring	1690
+parti9seter	1691
+parties	1692
+partner	1693
+parts	1694
+parts style	1695
+party	1696
+party articletitle	1697
+party logo	1698
+party name	1699
+party wikicolourid	1700
+passengers	1701
+pastnames	1702
+pastteams	1703
+patron saint	1704
+pattern b	1705
+pattern la	1706
+pattern sh	1707
+pattern so	1708
+pb	1709
+pcupdate	1710
+pcwater	1711
+pd	1712
+penalties awarded	1713
+penalties missed	1714
+penalties scored	1715
+pennants	1716
+pensjonistpartiet	1717
+percent water	1718
+percentage	1719
+percentwater	1720
+period	1721
+periph	1722
+periphunit	1723
+personquoted	1724
+philosophicalschool	1725
+pickups	1726
+picture-legend	1727
+picture-width	1728
+place of birth	1729
+place of burial	1730
+place of death	1731
+plain	1732
+plainlink	1733
+players	1734
+pldb	1735
+plus/minus	1736
+plz	1737
+podiums	1738
+poem	1739
+points	1740
+pol subdiv	1741
+pole driver	1742
+pole time	1743
+poles	1744
+police start	1745
+political subdiv	1746
+pop	1747
+pop 2010census rank	1748
+pop date	1749
+pop est as of	1750
+pop latest date	1751
+pop metro date	1752
+pop percent	1753
+pop rank	1754
+pop ref	1755
+pop year	1756
+popdate	1757
+popdensity km	1758
+popdensityrank	1759
+popofyear	1760
+poprank	1761
+popularity	1762
+population	1763
+population as of	1764
+population blank	1765
+population blank1 title	1766
+population blank2 title	1767
+population census rank	1768
+population census year	1769
+population city	1770
+population date	1771
+population demonym	1772
+population density	1773
+population density blank1 km	1774
+population density blank1 sq mi	1775
+population density km	1776
+population density metro	1777
+population density metro km	1778
+population density metro sq mi	1779
+population density mi	1780
+population density rank	1781
+population density round	1782
+population density sq mi	1783
+population density total km	1784
+population density urban km	1785
+population density urban sq mi	1786
+population estimate rank	1787
+population estimate year	1788
+population footnotes	1789
+population growth year	1790
+population increase	1791
+population label	1792
+population metro density km	1793
+population metro rank	1794
+population note	1795
+population rank	1796
+population ranking	1797
+population ref	1798
+population title	1799
+population urban density km	1800
+population urban km	1801
+populationdensity	1802
+populationof	1803
+populationrank	1804
+popyear	1805
+position	1806
+post town	1807
+post1note	1808
+post7followed	1809
+post7note	1810
+post7preceded	1811
+post9preceded	1812
+postal code	1813
+postal code name	1814
+postal code type	1815
+postal codes	1816
+postal2 code	1817
+postcode area	1818
+postcode areas	1819
+posthumous	1820
+postseason	1821
+pre-text	1822
+preceded	1823
+precip days colour	1824
+precipitacion colour	1825
+precipitation colour	1826
+predecessor	1827
+predessecor	1828
+prefecture	1829
+prefectures	1830
+premier	1831
+premierparty	1832
+pres	1833
+pres rows	1834
+presentation score 1 fs	1835
+presentation score 1 sp	1836
+presentation score 2 fs	1837
+presentation score 2 sp	1838
+presentation score 3 fs	1839
+presentation score 3 sp	1840
+presentation score 4 fs	1841
+presentation score 4 sp	1842
+presentation score 5 fs	1843
+presentation score 5 sp	1844
+presentation score 6 fs	1845
+presentation score 6 sp	1846
+presentation score 7 fs	1847
+presentation score 7 sp	1848
+presentation score 8 fs	1849
+presentation score 8 sp	1850
+presentation score 9 fs	1851
+presentation score 9 sp	1852
+president	1853
+president end	1854
+president party	1855
+president start	1856
+presidents' trophies	1857
+prev name	1858
+prev name2 date	1859
+prev series years	1860
+previous season	1861
+previousevent	1862
+prime minister	1863
+primeminister	1864
+prizes	1865
+prod code	1866
+prodcode	1867
+profession	1868
+promotion	1869
+pronunciation	1870
+provname	1871
+proyears	1872
+psm	1873
+psotal code type	1874
+psp	1875
+ptsb	1876
+public access	1877
+public administration start	1878
+publicutil start	1879
+pure url	1880
+pushpin label	1881
+pushpin label position	1882
+pushpin map	1883
+pushpin map label	1884
+pushpin map narrow	1885
+pushpin mapsize	1886
+pushpin relief	1887
+q	1888
+qalign	1889
+qs w	1890
+quarter	1891
+quarterreleasedate	1892
+quote	1893
+quoted	1894
+quotesource	1895
+r	1896
+r1-number	1897
+r1c	1898
+r2-number	1899
+r2c	1900
+r3c	1901
+r4c	1902
+r5c	1903
+r6c	1904
+races	1905
+rain color	1906
+rain colour	1907
+rajyasabha leader	1908
+range	1909
+range lat ns	1910
+range long ew	1911
+range long m	1912
+rank	1913
+rank fs	1914
+rank sp	1915
+ranklink	1916
+rankyear	1917
+rb	1918
+rb nat	1919
+rc	1920
+rcb nat	1921
+rcf nat	1922
+rcm nat	1923
+rd1-score	1924
+rd1-score1a	1925
+rd1-score1b	1926
+rd1-score2a	1927
+rd1-score2b	1928
+rd1-score3a	1929
+rd1-score3b	1930
+rd1-score4a	1931
+rd1-score4b	1932
+rd1-seed	1933
+rd2-score	1934
+rd2-score1a	1935
+rd2-score1b	1936
+rd2-score1c	1937
+rd2-score2a	1938
+rd2-score2b	1939
+rd2-score2c	1940
+rd2-seed	1941
+rd3-score	1942
+rd3-score1a	1943
+rd3-score1b	1944
+rd3-score1c	1945
+rd3-score1d	1946
+rd3-score2a	1947
+rd3-score2b	1948
+rd3-score2c	1949
+rd3-score2d	1950
+rd3-seed	1951
+rd4-score	1952
+re	1953
+realname	1954
+reason	1955
+recipients	1956
+recognized minority languages	1957
+record time	1958
+record year	1959
+red	1960
+ref area	1961
+reference	1962
+references	1963
+regierungsbezirk	1964
+region	1965
+regional cup apps	1966
+regional cup best	1967
+regional cup first	1968
+regional languages	1969
+regional scenes	1970
+registration plate	1971
+reign	1972
+related	1973
+related names	1974
+related-c	1975
+relation	1976
+relations	1977
+relative	1978
+relatives	1979
+religion	1980
+religions	1981
+rels	1982
+replace	1983
+reptile	1984
+required elements score	1985
+requirements	1986
+rescues	1987
+residence	1988
+resides	1989
+resting place	1990
+retired	1991
+retirednumbers	1992
+rev1score	1993
+rh	1994
+right\n cardinal name	1995
+rival	1996
+rivals	1997
+river name	1998
+rlif rank	1999
+rm	2000
+rm nat	2001
+rock	2002
+row	2003
+rows	2004
+rr	2005
+rs	2006
+rt	2007
+rtitle	2008
+ru clubcaps	2009
+ru nationalcaps	2010
+ru nationalteam	2011
+ru nationalyears	2012
+ru position	2013
+ru proclubs	2014
+ruling party	2015
+runtime	2016
+runtime ex	2017
+runtime fs	2018
+rural pop 2010census	2019
+rw	2020
+rw nat	2021
+rwblist	2022
+rwppressrank	2023
+s	2024
+saint	2025
+salary as of	2026
+salary rank	2027
+salign	2028
+sat	2029
+sc	2030
+scenarios	2031
+school tradition	2032
+scifi	2033
+score-width	2034
+scorea	2035
+scots name	2036
+scottish council gaelic speakers	2037
+scout ref title	2038
+script	2039
+seal size	2040
+seal width	2041
+sealsize	2042
+season	2043
+season name	2044
+seat	2045
+seat type	2046
+seats	2047
+seats1 title	2048
+seats3 title	2049
+seats4 title	2050
+seats5 title	2051
+sec	2052
+second	2053
+senate seats	2054
+senateleader	2055
+senateseats	2056
+senators	2057
+seneurowins	2058
+senseats	2059
+senterpartiet	2060
+sep chill	2061
+sep high c	2062
+sep low c	2063
+sep mean c	2064
+sep min	2065
+sep min reg	2066
+sep precip días	2067
+sep precipitation cm	2068
+sep precipitation days	2069
+sep precipitation inch	2070
+sep precipitation mm	2071
+sep rain days	2072
+sep rain mm	2073
+sep record high f	2074
+sep record low c	2075
+sep snow cm	2076
+sep snow days	2077
+sep snow inch	2078
+sep snowfall cm	2079
+sep sun	2080
+separated from	2081
+sepd sun	2082
+service end year	2083
+service start year	2084
+serviceyears	2085
+session	2086
+set	2087
+settlement	2088
+settlement typ	2089
+settlement type	2090
+shield alt	2091
+shield size	2092
+ship builder	2093
+ship decks	2094
+ship name	2095
+shire county	2096
+shire district	2097
+shoots	2098
+short description	2099
+short name	2100
+shortsummary	2101
+show judges	2102
+show jumps singles	2103
+show music	2104
+show name	2105
+show ordinal	2106
+show presentation	2107
+show required elements or technical merit	2108
+show runtime	2109
+show-medals	2110
+showflag	2111
+si	2112
+side	2113
+sign	2114
+signature	2115
+signature alt	2116
+signature size	2117
+significant buildings	2118
+significant projects	2119
+single line	2120
+singles	2121
+singlesrecord	2122
+singlestitles	2123
+site cityst	2124
+sizerank	2125
+sl	2126
+small	2127
+snow colour	2128
+social development end	2129
+son	2130
+song	2131
+sort	2132
+sort title	2133
+sosialistisk venstreparti	2134
+source	2135
+source country	2136
+source lat ns	2137
+source long d	2138
+source long ew	2139
+source region	2140
+south	2141
+southeast	2142
+southwest	2143
+sovereign state	2144
+sovereignty note	2145
+sovereignty type	2146
+space	2147
+spaces horizontal	2148
+spaces vertical	2149
+span	2150
+species-search	2151
+spl	2152
+split	2153
+spokesperson	2154
+sport	2155
+sport code	2156
+sport5-boys	2157
+sport5-wom	2158
+sport6-men	2159
+sport7-men	2160
+sport7-wom	2161
+spouse	2162
+spw	2163
+squadname	2164
+ss	2165
+ss last position	2166
+st	2167
+stadium name	2168
+stadiumbuilt	2169
+stand	2170
+stanley cups	2171
+stat pop	2172
+stat ref	2173
+stat year	2174
+stat1label	2175
+stat1value	2176
+stat21label	2177
+stat23label	2178
+stat2label	2179
+stat2value	2180
+stat3label	2181
+stat3value	2182
+stat4label	2183
+stat4value	2184
+stat5label	2185
+stat6label	2186
+state flag	2187
+state legislature	2188
+state of origin	2189
+state party	2190
+state religion	2191
+stateabb	2192
+statesong	2193
+static image	2194
+static image 2 caption	2195
+static image 2 width	2196
+static image caption	2197
+static image width	2198
+statistic year	2199
+statlabel	2200
+statseason	2201
+status text	2202
+statvalue	2203
+statyear	2204
+strength	2205
+student wing	2206
+style	2207
+stylistic origins	2208
+subdistrict	2209
+subdivision	2210
+subdivision name	2211
+subdivision type	2212
+subdivisions	2213
+subgenrelist	2214
+subgenres	2215
+subheader	2216
+subregion	2217
+subsid	2218
+succeeded by	2219
+succession	2220
+successor	2221
+superhero	2222
+supremegovernor	2223
+survivors	2224
+sw	2225
+swedish	2226
+swedish official	2227
+swing from	2228
+swing to	2229
+symbol	2230
+synth manufacturer	2231
+synth name	2232
+synthesis type	2233
+t	2234
+tab	2235
+tablewidth	2236
+talk	2237
+tartan	2238
+task force	2239
+team	2240
+team link	2241
+team name	2242
+teamcolors	2243
+teamname	2244
+teams	2245
+technical merit score	2246
+tehsils	2247
+telephone	2248
+telephone-area	2249
+telpref	2250
+temp winter	2251
+temperature low c	2252
+tenants	2253
+term end	2254
+term start	2255
+territory	2256
+tertiary	2257
+text	2258
+textcolor	2259
+thdl	2260
+the guardian	2261
+the w	2262
+the wr	2263
+theology	2264
+thes n	2265
+thes w	2266
+this album	2267
+this single	2268
+throws	2269
+tiebreakers	2270
+time zone	2271
+time zone dst	2272
+times/sunday times	2273
+timezone	2274
+timezone dst	2275
+timezone1 dst	2276
+title	2277
+title deputy	2278
+title fnt	2279
+title leader	2280
+title orig	2281
+title representative	2282
+title years	2283
+title1wins	2284
+title2wins	2285
+title3wins	2286
+title4wins	2287
+title5wins	2288
+titlealign	2289
+titleplace	2290
+titles	2291
+titlestyle	2292
+today	2293
+tokens	2294
+top floor	2295
+top scorer	2296
+total	2297
+total gdp rank	2298
+total islands	2299
+total meetings	2300
+total type	2301
+totalcaps	2302
+totalgoals	2303
+tournament list	2304
+town	2305
+tpb	2306
+tpop as of	2307
+trainer	2308
+training	2309
+trans	2310
+translit lang1 info	2311
+transport party	2312
+transportation end	2313
+transportation start	2314
+treas start	2315
+tree	2316
+tries	2317
+trophy	2318
+tsurl	2319
+tt first win	2320
+tt last win	2321
+turns	2322
+twin	2323
+twin1 country	2324
+twin10 country	2325
+twin11 country	2326
+twin12 country	2327
+twin13 country	2328
+twin14 country	2329
+twin15 country	2330
+twin2 country	2331
+twin3 country	2332
+twin4 country	2333
+twin5 country	2334
+twin6 country	2335
+twin7 country	2336
+twin8 country	2337
+twin9 country	2338
+twintowns	2339
+twomin	2340
+type	2341
+tz2where	2342
+u	2343
+ubigeo	2344
+uefau21champ apps	2345
+unclaimed natl titles.	2346
+unit	2347
+unit name	2348
+unit pref	2349
+unitary england	2350
+unitary scotland	2351
+unitary wales	2352
+unnatltitles	2353
+updated	2354
+upperhouse	2355
+urap	2356
+urban area date	2357
+urban area km	2358
+urban pop date	2359
+urban population	2360
+usnwr nu	2361
+usopendoublesresult	2362
+usopenresult	2363
+usual languages	2364
+utc offset	2365
+utc offset dst	2366
+v	2367
+value	2368
+vehicle code	2369
+velocity	2370
+venstre	2371
+venue	2372
+verbandsgemeinde	2373
+verwaltungsgemeinschaft	2374
+vg	2375
+vice president	2376
+vice president end	2377
+vice president start	2378
+vicepresident	2379
+video	2380
+viewers	2381
+visitation year	2382
+visitor	2383
+volumes	2384
+vorwahl	2385
+votes	2386
+voy-search	2387
+vp	2388
+vp rows	2389
+vp state	2390
+w	2391
+w badmnt	2392
+w bball	2393
+w bsball	2394
+w bvolley	2395
+w chess	2396
+w fencing	2397
+w ftball	2398
+w judo	2399
+w swim	2400
+w taekwd	2401
+w tbltenn	2402
+w tennis	2403
+w track	2404
+w vball	2405
+w/l	2406
+wamo nu	2407
+water	2408
+waterarea km	2409
+waterareaus	2410
+waterbody	2411
+wb	2412
+wb won	2413
+website	2414
+weight	2415
+weight lb	2416
+weight lbs	2417
+west	2418
+wf	2419
+whs	2420
+whs number	2421
+whs region	2422
+width	2423
+width km	2424
+width mi	2425
+widthus	2426
+wikicommons	2427
+wikt	2428
+wikt-search	2429
+wiktionary	2430
+wiktionary entry	2431
+wild card	2432
+wildflower	2433
+wimbledondoublesresult	2434
+wimbledonresult	2435
+winner party	2436
+wins	2437
+wins vacated	2438
+winsvacated	2439
+woodbody	2440
+work institution	2441
+work institutions	2442
+workplaces	2443
+world champions	2444
+world cup apps	2445
+world cup best	2446
+world cup first	2447
+worst defeat	2448
+worst goal difference-team	2449
+wp	2450
+wq	2451
+wr	2452
+writing credits	2453
+wstitle	2454
+wt	2455
+x	2456
+x-play	2457
+y	2458
+yc	2459
+ycb	2460
+year	2461
+year deputy	2462
+year end	2463
+year high c	2464
+year leader	2465
+year low c	2466
+year mean c	2467
+year precipitation days	2468
+year precipitation inch	2469
+year precipitation mm	2470
+year rain days	2471
+year rain mm	2472
+year record high f	2473
+year record low c	2474
+year record low f	2475
+year rows	2476
+year snow cm	2477
+year snow days	2478
+year start	2479
+years	2480
+years active	2481
+yearsactive	2482
+yellow	2483
+youngest scorer opponent	2484
+youngest scorer player	2485
+youngest scorer team	2486
+youthclubs	2487
+youthyears	2488
+z	2489
+zwpy	2490

@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img align="center"  src="./architecture.pdf" alt="architecture">
+<img align="center"  src="./architecture.png" alt="architecture">
 
 Given a target knowledge graph, **ATransN** improves knowledge representation learning by transferring knowledge from one or more teacher knowledge graphs to the target one through an aligned entity set without explicit data leakage. To handle the problem of possible distribution differences between teacher and target knowledge graphs, we introduce an adversarial adaption module. Please refer to the paper for details. 
 

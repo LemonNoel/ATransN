@@ -74,7 +74,7 @@ Uncomment `line 362, 398` in run_wgan_kge.py and comment `line 363, 399` in run_
 python run_wgan_kge.py --seed 2020 --steps 10000 --eval_steps 2000 --save_steps 100000 --save_path ../dumps --teacher_data_path ../data/CN3l_EN_D --student_data_path ../data/CN3l_DE --shared_entity_path ../data/SHARED/cn3l_en_d_de_aligned_entity_id.txt --teacher_model_path ../dumps/TransE_CN3l_EN_D_KLR0.0010_ED200_MG8_NS128_SD2020_2020_09_21_15_47_52/ --num_workers 0 --margin 8.0 --kge_model TransE --emb_dim 200 --test_batch 512 --kge_batch 128 --num_neg_samples 128 --kge_alpha 1.0 --kge_beta 1.0 --gpu_id 0;
 ```
 
-### Citation:
+## Citation
 Please cite the following paper if you use this code in your work.
 ```bibtex
 @inproceedings{

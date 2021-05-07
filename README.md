@@ -1,8 +1,9 @@
 <h2 align="center">An Adversarial Transfer Network for Knowledge Representation Learning</h2>
 <p align="center">
-  <a href="https://www2021.thewebconf.org/"><img src="http://img.shields.io/badge/TheWebConf-2021-4b44ce.svg"></a>
+  <a href="https://www2021.thewebconf.org/"><img src="http://img.shields.io/badge/TheWebConf-2021-5c55df.svg"></a>
+  <a href="https://arxiv.org/abs/2104.14757"><img src="http://img.shields.io/badge/Paper-PDF-59d.svg"></a>
   <a href="https://github.com/LemonNoel/ATransN/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg">
+    <img src="https://img.shields.io/badge/License-Apache%202.0-lightgrey.svg">  
   </a>
 </p>
 

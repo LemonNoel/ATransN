@@ -146,7 +146,7 @@ class TestDataset(Dataset):
                 # filter_bias[self.all_true_triples[k][2]] = -1
             for j in range(i, len(self.all_true_triples)):
                 triple = self.all_true_triples[j]
-                if triple[0] != tail and triple[1] != relation:
+                if triple[0] != tail or triple[1] != relation:
                     break
                 filter_bias[triple[2]] = -1e8 # exclude positive samples
             filter_bias[head] = 0.0
@@ -157,7 +157,7 @@ class TestDataset(Dataset):
                 # filter_bias[self.all_true_triples[k][2]] = -1
             for j in range(i, len(self.all_true_triples)):
                 triple = self.all_true_triples[j]
-                if triple[0] != head and triple[1] != relation:
+                if triple[0] != head or triple[1] != relation:
                     break
                 filter_bias[triple[2]] = -1e8 # exclude positive samples
             filter_bias[tail] = 0.0 # include current sample
